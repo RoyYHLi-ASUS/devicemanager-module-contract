@@ -1,4 +1,4 @@
-# Drone Data Field Specification
+# Device manager module Field Specification
 
 | Field | Type | Default | Can be empty? | Enum/Format | Description |
 |-------|------|---------|---------------|-------------|-------------|
