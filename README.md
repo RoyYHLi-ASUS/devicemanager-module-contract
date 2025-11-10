@@ -1,0 +1,1 @@
+# devicemanager-module-contract
